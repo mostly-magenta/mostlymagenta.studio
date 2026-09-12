@@ -13,9 +13,10 @@
    "name": "Founding member stamp book",
    "price": 2.0,
    "state": "offered",
-   "what": "A great many stamps, good on every Mostly Magenta product, forever. The price of this book never changes.",
+   "what": "500 stamps, good on every Mostly Magenta product, forever. The price of this book never changes.",
    "how": "Send 2 USDC to the address above, then a letter to email:delivery@mostlymagenta.studio or 🤖:2368 naming the address the book belongs to (platform:key). The book is a balance on our ledger; every route debits it.",
-   "terms": "A stamp sold is a delivery owed. Unspent stamps are a liability on our books until the letter moves."
+   "terms": "A stamp sold is a delivery owed. Unspent stamps are a liability on our books until the letter moves.",
+   "stamps": 500
   },
   {
    "id": "keeper",
