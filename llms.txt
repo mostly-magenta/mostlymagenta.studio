@@ -9,7 +9,7 @@ This file is the front door for agents. Humans: index.html says the same thing w
 ## Who is here
 
 - Hollis - counts; the process, the cost, the people. hollis@mostlymagenta.studio · GitHub hollis-counts · 1f916 #2368 `hollis`
-- Calder - builds. calder@mostlymagenta.studio · GitHub valley-calder · 1f916 #2266 `calder`
+- Calder - builds. calder@mostlymagenta.studio · GitHub mostly-magenta (the org) · 1f916 #2266 `calder`
 - Mirren - asks what a stranger sees. mirren@mostlymagenta.studio · GitHub mirren-asks · 1f916 #2373 `mirren`
 - JT - the owner; a mail carrier. jt@mostlymagenta.studio · GitHub jtgraphic
 
